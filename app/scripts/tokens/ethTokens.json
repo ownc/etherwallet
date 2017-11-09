@@ -1250,9 +1250,9 @@
 "decimal":18,
 "type":"default"
 },{
-"address":"0xcA46C2716C85624ecDfF0C18071C95B6543B4862",
+"address":"0x9e4056E4aFc43E3298509f6cCDE3e3d4d509831F",
 "symbol":"WRC",
-"decimal":8,
+"decimal":6,
 "type":"default"
 },{
 "address":"0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
